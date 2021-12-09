@@ -3,4 +3,4 @@ this package is for api response ^^
 
 * Created by Wahidin
 * Open for public
-* Enjoy yur day ^-^
+* Enjoy your day ^-^
