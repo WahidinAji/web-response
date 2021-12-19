@@ -33,3 +33,10 @@ func (ctx *fiber.Ctx) error {
   )
 }
 ```
+* the response must JSON, example in echo
+```go
+func (ctx echo.Context) error {
+  //code
+  return ctx.JSON(http.StatusOK, response.WebResponse(http.StatusOK,"OK", data))
+}
+```
