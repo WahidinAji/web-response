@@ -14,7 +14,7 @@ go get github.com/WahidinAji/web-response
 package <your-package-module>
 
 import (
-  alias "github.com/WahidinAji/web-respinse"
+  alias "github.com/WahidinAji/web-response"
 )
 
 func Handle (context) {
